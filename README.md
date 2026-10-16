@@ -46,11 +46,9 @@ The application records a student's spoken response, converts the speech into te
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd project2-student-evaluation-system
+git clone https://github.com/dipseek/Student-Evaluation-System.git
+cd student-evaluation-system
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Create a Virtual Environment
 

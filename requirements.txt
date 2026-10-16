@@ -1,0 +1,6 @@
+SpeechRecognition
+PyAudio
+nltk
+sentence-transformers
+torch
+punkt_tab

@@ -100,10 +100,8 @@ Ensure this file is available when running the project. Do not commit sensitive 
 Run the main Python file:
 
 ```bash
-python main.py
+python final_project.py
 ```
-
-Replace `main.py` with the actual filename of your main application.
 
 ## Questions Available
 
@@ -137,6 +135,4 @@ The application includes the following questions:
 
 **Deepika Saini**
 
-B.Tech Computer Science and Engineering
-
-Interested in Data Science, Machine Learning, and Artificial Intelligence.
+B.Tech Computer Science and Engineering in Data Science and Machine Learning
